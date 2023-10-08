@@ -13,7 +13,7 @@ https://fin-wallet.netlify.app/
 - Filter cashflow for a specific named cashflow or cashflow type;
 - Create a new cashflow with a name, type and income/outcome tag;
 - Summary with total income, total outcome and total;
-- 
+
 ## Stacks
 
 **Front-end:** TypeScript, React, React Router, Vite, Styled Components, Axios, Phosphor-Icons, Toastify, Zod
