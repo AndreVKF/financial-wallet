@@ -1,4 +1,4 @@
-# Financial Wallet
+# Financial Wallet 💰
 
 Fullstack application to manage the incomes and outcomes of a virtual wallet.
 
